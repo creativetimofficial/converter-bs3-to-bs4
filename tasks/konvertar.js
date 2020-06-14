@@ -493,7 +493,7 @@ function navbarConverter($, file){
     });
 
     $('.nav.navbar > li').each(function() {
-        $(this).addClass('nav-intem');
+        $(this).addClass('nav-item');
     });
 
     $('.navbar-btn').each(function() {
